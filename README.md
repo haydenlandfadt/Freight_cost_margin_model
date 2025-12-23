@@ -4,7 +4,7 @@ This project is an Excel-based freight cost and margin model built to analyze tr
 ## Overview The model seperates assumptions from calculations to improve transparency and reduce error risk. Centralized inputs allow users to test pricing scenarios, such as fuel increases, or customer rate changes, without modifying core forumlas.
 
 ## Features
--- Centralized input assumptions (Model tab)  for fuel surcharge, Indirect cost charges, and rate adjustments
+--Centralized input assumptions (Model tab)  for fuel surcharge, Indirect cost charges, and rate adjustments
 --Lane-level cost and revenue for fuel surcharge and rate adjustments
 -- Margin(%) and Margin($) analysis
 --Scenario testing for carrier and customer rate changes
